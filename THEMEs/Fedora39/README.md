@@ -8,6 +8,10 @@ Material GTK Themes: https://github.com/Fausto-Korpsvart/Material-GTK-Themes
 code --install-extension Equinusocio.vsc-material-theme
 ```
 
+`@Google Chrome`
+
+https://chromewebstore.google.com/detail/material-deep-ocean/nfbndjdhaehagagfllfcddofghkhcfdf
+
 # Icons
 
 BeautyLine: https://www.gnome-look.org/p/1425426/
