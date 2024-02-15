@@ -12,6 +12,10 @@ code --install-extension Equinusocio.vsc-material-theme
 
 https://chromewebstore.google.com/detail/material-deep-ocean/nfbndjdhaehagagfllfcddofghkhcfdf
 
+`@Firefox`
+
+https://addons.mozilla.org/en-US/firefox/addon/material-deep-ocean-theme/
+
 # Icons
 
 BeautyLine: https://www.gnome-look.org/p/1425426/
